@@ -1,3 +1,0 @@
-streamlit==1.10.0
-google-cloud-genai==<versión>   # Agrega la versión adecuada, o usa la última versión disponible
-google-cloud-aiplatform==2.0.0
